@@ -17,9 +17,10 @@ const Container = styled.div`
   padding: 20px;
   margin: 0 !important;
 
+
   @media ${(props) => props.theme.mediaQueries.large} {
     max-width: 940px;
-    padding: 50px 0px 0px;
+    padding: 50px 0px 0px 0px;
     margin: 40px auto;
   }
 
