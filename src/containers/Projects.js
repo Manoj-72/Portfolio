@@ -131,7 +131,7 @@ const Projects = () => {
             </p>
 
             <a
-              href="https://Manoj-72.github.io/webdev"
+              href="https://manoj-72.github.io/webdev"
               target="_blank"
               rel="noopener noreferrer"
             >
