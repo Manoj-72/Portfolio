@@ -105,7 +105,7 @@ const Projects = () => {
               <Title text="BlockX Technologies" />
             </a>
             <p className="project-desc">
-              BlockX Technologies website done with react
+              BlockX Technologies website with react
             </p>
 
             <a
