@@ -115,7 +115,7 @@ const Home = () => {
             <br />
             <br />
             Apart from coding, I love to watch movies with cold coffee in hand
-            and i'm learning <strong> blockchain </strong> partime.
+            and i'm learning <strong> blockchain </strong> in partime.
           </p>
         </AboutCol>
       </AboutWrapper>

@@ -41,7 +41,7 @@ export default createGlobalStyle`
   .remove-margin {
     margin : 0;
     @media only screen and (min-width:960px) {
-      margin-top:40px;
+      margin-top:50px;
     }
   }
 

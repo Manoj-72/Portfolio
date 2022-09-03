@@ -123,11 +123,11 @@ const Projects = () => {
             <div>
               <ProjectImage2></ProjectImage2>
             </div>
-            <a href="/">
+            <a href="https://manoj-72.github.io/webdev">
               <Title text="Web Dev" />
             </a>
             <p className="project-desc">
-              Developed animated landing page with react
+              Animated landing page with react
             </p>
 
             <a
